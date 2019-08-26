@@ -1,15 +1,13 @@
-<center>CELL:(435-881-2427)</center>
+<center>CELL: (435-881-2427)</center>
 
 <center>E-MAIL: VERN21@GMAIL.COM</center>
 
 # PERSONAL STATEMENT
 <p>I am Hard working, self-motivated, adventurous person. I would love the opportunity to be involved in the continued success of Xactware’s Pricing Development.  I believe I have proven that I can take on any task and follow through with it even if I don’t possess the skills in the beginning I quickly learn and adapt to succeed</p>  
 ## EDUCATION 
--	1999 	                                   Mountain Crest High School
-High School Diploma
+- 1999 Mountain Crest High School High School Diploma
 	
-Pursuing Degree in Math                     Utah State University
-Earned 85 credits
+- 2002-2004  Pursuing Degree in Math Utah State University Earned 85 credits
 
 Registered to finish Degree in                       Western Governors University
 Business IT Management 

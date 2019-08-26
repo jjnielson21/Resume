@@ -1,6 +1,6 @@
-<center>CELL 435.881.2427</center>
+<center>CELL:(435-881-2427)</center>
 
-<center>E-MAIL VERN21@GMAIL.COM</center>
+<center>E-MAIL: VERN21@GMAIL.COM</center>
 
 <center>JEFFREY NIELSON</center>
 

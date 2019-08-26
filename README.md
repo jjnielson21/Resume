@@ -1,8 +1,8 @@
 <center>CELL 435.881.2427</center>
 
-E-MAIL VERN21@GMAIL.COM
+<center>E-MAIL VERN21@GMAIL.COM</center>
 
-JEFFREY NIELSON
+<center>JEFFREY NIELSON</center>
 
 # PERSONAL STATEMENT
 I am Hard working, self-motivated, adventurous person. I would love the opportunity to be involved in the continued success of Xactware’s Pricing Development.  I believe I have proven that I can take on any task and follow through with it even if I don’t possess the skills in the beginning I quickly learn and adapt to succeed  

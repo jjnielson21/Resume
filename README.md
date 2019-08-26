@@ -2,18 +2,21 @@
 
 <center>E-MAIL: VERN21@GMAIL.COM</center>
 
+
 # PERSONAL STATEMENT
-<p>I am Hard working, self-motivated, adventurous person. I would love the opportunity to be involved in the continued success of Xactware’s Pricing Development.  I believe I have proven that I can take on any task and follow through with it even if I don’t possess the skills in the beginning I quickly learn and adapt to succeed</p>  
-## EDUCATION 
-- 1999 Mountain Crest High School High School Diploma
+<p>I am Hard working, self-motivated, adventurous person. I would love the opportunity to be involved in the continued success of Xactware’s Pricing Development.  I believe I have proven that I can take on any task and follow through with it even if I don’t possess the skills in the beginning I quickly learn and adapt to succeed</p> 
+
+# EDUCATION 
+- 1999 Mountain Crest High School: High School Diploma
 	
-- 2002-2004  Pursuing Degree in Math Utah State University Earned 85 credits
+- 2002-2004  Utah State University: 85 credits
 
-Registered to finish Degree in                       Western Governors University
-Business IT Management 
+- 2015 Scrum Alliance: CSM Certification
 
-CSM Certification                                    Scrum Alliance
-PROFESSIONAL EXPERIENCE
+- 2019-2020 Mountainland Technical College: Web Development and Programming 
+
+
+# PROFESSIONAL EXPERIENCE
 	July 2014-Current                                                     Xactware: Pricing
 Internal Project Coordinator 
 	Tasked with managing workflows of software updates with in the pricing department.  Coordinate new software development, testing, and implementation to Customers.  Help with Designs for Current Projects.  Have also performed responsibilities of SCRUM Master on our Development Team.    
